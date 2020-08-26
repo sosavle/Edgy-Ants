@@ -1,8 +1,5 @@
-# Edgy-Ants
-:ant: A little something to put the edge on
-
 ## About Ant Colony Optimization Algorithms
-
+Explanation placeholder
 
 ## Program Parameters
 The behavior of the ants colony edge detection algorithm is mediated by a variety of parameters. There are a total of nine adjustable parameters in this implementation of the algorithm: 
